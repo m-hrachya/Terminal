@@ -7,7 +7,6 @@
 #include <assert.h>
 #include <sys/types.h>
 #include <string.h>
-#include <fcntl.h>
 #include <sys/mman.h>
 
 #define COMMAND_SIZE 128
